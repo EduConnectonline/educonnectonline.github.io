@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(240, 158, 128);
+}
+
+#maintaince{
+    font-size: 2.5rem;
+    margin-bottom: 50px;
+}
+#head{
+    font-size: 3.2rem;
+    text-align: center;
+    text-decoration: underline;
+}
